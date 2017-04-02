@@ -7,4 +7,5 @@ public class ForTest {
 	11
     22
     3-
+	4
 }
