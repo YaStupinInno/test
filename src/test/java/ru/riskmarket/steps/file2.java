@@ -5,4 +5,5 @@ package ru.riskmarket.steps;
  */
 public class file2 {
     1+2+
+	3
 }
